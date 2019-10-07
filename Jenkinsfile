@@ -6,7 +6,7 @@ stage('2nd stage') {
     sh "touch helloworld.txt"
    }
     stage('3rd stage') {
-     sh "mkdir ramdev"   
+     sh "mkdir bamdev"   
     }
 
 }
